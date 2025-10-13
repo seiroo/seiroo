@@ -9,3 +9,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring,angular,tailwind,vscode,figma" />
   </a>
 </p>
+
+<p align="center">
+  <a href="mailto:jonatanclavijo58@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" title="Email"></a>
+  <a href="https://www.linkedin.com/in/tuusuario"><img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn"></a>
+</p>
