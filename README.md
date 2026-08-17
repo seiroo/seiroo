@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vortexboard.online"><strong>🚀 Vortex</strong></a> — Kanban board for GitHub issues. Organize repositories, members, and issues in a focused workspace with real-time sync, filters, and AI issue generation.
+  <a href="https://vortexboard.online"><strong>Vortex</strong></a> — Kanban board for GitHub issues. Organize repositories, members, and issues in a focused workspace with real-time sync, filters, and AI issue generation.
 </p>
 
 <h3 align="center">
